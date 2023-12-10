@@ -1,0 +1,46 @@
+
+
+
+.content{
+    overflow: hidden;
+    position:fixed;
+    width: 100%;
+    height: 100%;
+    left: 55%;
+    top: 50%;
+    transform: translate(-55%,-50%);
+
+}
+
+
+.box{
+    /* overflow: scroll; */
+    border: 3px solid #61dafb;
+    position: relative;
+    width: 90%;
+    height: 90%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 20px;
+    background-color: #030e3372;
+}
+
+
+
+.cancel{
+    position: fixed;
+    top: 1%;
+    left: 99.8%;
+    transform: translate(-99.8%,-1%);
+    border: none;
+    background-color: #00d5ff00;
+
+}
+
+.processbutton{
+    position: fixed;
+    top: 98%;
+    border:none;
+    background-color: #08044100;
+}

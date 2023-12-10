@@ -1,0 +1,42 @@
+.navbar{
+    display: flex;
+    padding: 10px;
+    padding:2;
+    /* background-color:#1118275f; */
+    /* border-bottom:2px solid #07a9d1; */
+    
+ 
+}
+
+
+
+
+.navbarcollapse{
+    margin-left: 40px;
+    flex-basis: auto;
+    height: auto ;
+}
+
+.nav{
+    position: relative;
+    top: 50%;
+    transform: translate(0%,-50%);
+    width: auto;
+    height: auto;
+}
+
+.navlink{
+    text-decoration: 0;
+    color: rgb(110, 113, 115);
+    margin: 0px 20px;
+    padding: 10px 20px;
+}
+
+
+.navlink:hover{
+    color: rgb(0, 0, 0);
+}
+
+
+
+
